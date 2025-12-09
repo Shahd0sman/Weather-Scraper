@@ -14,9 +14,9 @@ A simple Python project to fetch and display the current temperature of any city
 - Can be extended to show humidity, wind, and weather condition
 
 ---
-## Screenshots 📸
-
-![Screenshot](screenshot.png) 
+<p align="center">
+  <img src="screenshot.png" alt="Screenshot" width="400">
+</p>
 
 ---
 
